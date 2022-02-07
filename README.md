@@ -2,7 +2,7 @@
 
 
 ### A bit about me:
-💻 I'm currently learning web development with [Founders & Coders] (https://github.com/foundersandcoders) as part of their 2022 Skills Bootcamp. Like many, I discovered coding during the pandemic, and I thoroughly enjoy how technical and creative it is!
+💻 I'm currently learning web development with Founders & Coders as part of their 2022 Skills Bootcamp. Like many, I discovered coding during the pandemic, and I thoroughly enjoy how technical and creative it is!
 
 ### My background: 
 ✨ I'm a law graduate with experience in commercial, intellectual property, and contract law. I interned at Nissan for a year before graduating and working in immigration law- I currently run my own business where I design and sell my line of hijabs and accessories.
